@@ -76,3 +76,5 @@ for i in range(m):
         # wrong w = w + ((j- 3)**2)*X[i,j]
     
 print(w)
+
+
